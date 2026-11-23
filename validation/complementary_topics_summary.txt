@@ -1,0 +1,2 @@
+Leave-one-out on 145 modelled documents: original topic recovered for 77.2% (all classes incl. -1), 81.6% of the 136 non-outlier documents (outlier class excluded).
+Vocabulary: 1874 terms (English stop words removed, min_df=2).

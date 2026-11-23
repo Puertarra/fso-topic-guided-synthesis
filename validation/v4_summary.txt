@@ -1,0 +1,16 @@
+supported (S): 66/120 = 55.0% (95% Wilson CI 46.1%-63.6%)
+partially supported (P): 46/120 = 38.3% (95% Wilson CI 30.1%-47.3%)
+unsupported (U): 8/120 = 6.7% (95% Wilson CI 3.4%-12.6%)
+S or P: 112/120 = 93.3% (95% Wilson CI 87.4%-96.6%)
+
+By section:
+verdict                                                      P   S  U  All
+section                                                                   
+6G and Emerging Security Challenges                          4   3  0    7
+Advanced Modulation and Intelligent Propagation Techniques   5  13  3   21
+Hybrid RF--FSO Security Strategies                           4   9  0   13
+Physical Layer Security in FSO Communication                27  25  3   55
+Quantum Secure Communication over FSO Systems                6  16  2   24
+All                                                         46  66  8  120
+
+Excluded from frame (no readable full text): Dabiri2025, Furqan2018WCMC, Huang2020JSAC, Khoshafa2025COMST, Lee2017IEEEAccess, Liu2018TCOM, Marzban2019TVT, Wu2025IEEE, Zeydan2025OJCOMS (10 units)

@@ -1,0 +1,67 @@
+id,key,topic,title,turbulence,pointing_error,csi,eavesdropper,metric,validation,cost_reported
+001,Kamran2020,1.0,Quantum key distribution over free space optic (FSO) channel using higher order Gaussian beam spatial modes,,,,,,simulation,hardware
+002,Ai2020,3.0,Secrecy enhancement of RF backhaul system with parallel FSO communication link,,yes,,,SOP;ASC;secrecy rate/capacity,simulation;analytical,hardware
+005,Narang2019,5.0,The probability of error in FSO communication system using Differential Chaos Shift Keying,gamma-gamma,,,,,,
+008,Tonk2022,2.0,New Results in Secrecy Analysis of Mixed RF/FSO Cooperative Relaying Networks,malaga,yes,,,secrecy rate/capacity,analytical,hardware
+010,Wang2024,0.0,Secure FSO communication based on optical frequency-hopping technology using delay interferometers,,,,,,simulation,
+013,Tumma2024,0.0,A Review on Deployment of UAV-FSO System for High-Speed Communication,,yes,,,,simulation,
+016,Sikri2021,13.0,Artificial Noise Injection–Based Secrecy Improvement for FSO Systems,malaga,yes,,,SOP;SPSC;secrecy rate/capacity,analytical,
+017,Elfiqi2019,5.0,Chaotic Polarization-Assisted LDPSK-MPPM Modulation for Free-Space Optical Communications,gamma-gamma,,,,,simulation,complexity
+019,Vu2020,1.0,Design and Performance of Relay-Assisted Satellite Free-Space Optical Quantum Key Distribution Systems,,yes,,,BER;SKR;QBER,simulation,
+020,Trinh2018,1.0,Design and Security Analysis of Quantum Key Distribution Protocol Over Free-Space Optics Using Dual-Threshold Direct-Detection Receiver,,,,,BER;SKR;QBER,simulation;analytical,
+021,Verma2024,5.0,Differential Chaos Shift Keying for FSO Systems: A Novel Approach Under Turbulence and Boresight Pointing Errors,malaga,yes,,,secrecy rate/capacity;BER,,
+022,Nguyen2023,7.0,Enhancing Design and Performance Analysis of Satellite Entanglement-Based CV-QKD/FSO Systems,F-dist,,,,BER;QBER,simulation;analytical,hardware
+023,Ahmed2023,10.0,Enhancing Physical Layer Secrecy Performance for RIS-Assisted RF-FSO Mixed Wireless System,malaga,yes,,RF-link Eve,SOP;ASC;secrecy rate/capacity;EST,simulation;analytical,
+028,Tubail2020,14.0,Physical layer security of interference aligned mixed RF/unified-FSO relaying network,,,,,,,
+031,Stathis2024,1.0,Experimental feasibility analysis of quantum/classical coexistence over fibre and free space links,,,,,BER;SKR;QBER,experimental;simulation,
+032,Islam2021,8.0,Impact of Correlation and Pointing Error on Secure Outage Performance Over Arbitrary Correlated Nakagami-m and M-Turbulent Fading Mixed RF-FSO Channel,malaga,yes,,,SOP;SPSC;secrecy rate/capacity,simulation;analytical,
+039,Zhang2024,4.0,Joint UAV Trajectory and Power Allocation With Hybrid FSO/RF for Secure Space–Air–Ground Communications,,,,,secrecy rate/capacity,simulation,
+041,Monteiro2018,2.0,Maximum Secrecy Throughput of MIMOME FSO Communications With Outage Constraints,gamma-gamma;double GG/other,yes,perfect,,EST,analytical,
+049,Lei2020,2.0,On Secure Mixed RF-FSO Systems With TAS and Imperfect CSI,malaga,yes,imperfect/outdated;perfect,,,simulation;analytical,
+055,Shakir2023,9.0,Opportunistic Schedule Selection for Multiuser MIMO FSO Communications: A Security-Reliability Trade-Off Perspective,malaga,yes,,,intercept prob.;BER,simulation;analytical,
+059,Alshaer2022,1.0,Performance Evaluation and Security Analysis of UAV-Based FSO/CV-QKD System Employing DP-QPSK/CD,,yes,,,QBER,simulation;analytical,
+061,Saber2019,11.0,Physical-Layer Security Analysis of Mixed SIMO SWIPT RF and FSO Fixed-Gain Relaying Systems,malaga,yes,,,SOP;ASC;secrecy rate/capacity,analytical,
+062,Yang2018,2.0,Physical-Layer Security for Mixed η–μ and M-Distribution Dual-Hop RF/FSO Systems,malaga,,,,SOP;secrecy rate/capacity,analytical,
+064,Djordjevic2016;Sun2016,0.0,Physical-Layer Security in Orbital Angular Momentum Multiplexing Free-Space Optical Communications,,,,,secrecy rate/capacity,simulation,
+065,Pattanayak2022,3.0,Physical Layer Security Analysis of Multi-Hop Hybrid RF/FSO System in Presence of Multiple Eavesdroppers,malaga,yes,,multiple Eves,SOP;SPSC,simulation,complexity
+069,Ai2019,2.0,Physical Layer Security of Hybrid Satellite-FSO Cooperative Systems,gamma-gamma;double GG/other,yes,,,SOP;ASC;secrecy rate/capacity,analytical,
+071,Sun2024,10.0,Research on Physical Layer Security Performance of Hybrid RF/FSO System Based on RIS Assistance under FSO Eavesdropping Environment,malaga,,,RF-link Eve,SOP;SPSC,simulation;analytical,
+072,Zhang2020,2.0,Secrecy Analysis for Multi-Relaying RF-FSO Systems With a Multi-Aperture Destination,gamma-gamma,,,RF-link Eve,SOP;SPSC;secrecy rate/capacity,simulation;analytical,
+074,Lei2018,2.0,Secrecy Outage Analysis of Mixed RF-FSO Systems With Channel Imperfection,,yes,imperfect/outdated;perfect,,SOP,simulation;analytical,
+077,Hu2020,9.0,Secure Cooperative Transmission for Mixed RF/FSO Spectrum Sharing Networks,gamma-gamma;double GG/other,yes,,,secrecy rate/capacity,,
+079,Liu2022,4.0,Secure Mobile Edge Computing via a Drone-Enabled FSO-Based Heterogeneous Network,,,,,secrecy rate/capacity,,
+083,Liu2021,10.0,Performance Analysis of RIS-Assisted Mixed Dual-Hop FSO-RF Communication Systems over Exponentiated Weibull Channels,,,,,BER,simulation;analytical,
+086,Ahmed2022,7.0,Security Analysis of Gaussian and Discrete Modulations in FSO/CV-QKD Systems Employing LLO Under Phase and Amplitude Attacks,,,,,SKR,simulation,
+088,Wu2024,5.0,Synchronization-Assisted Chaotic Permutation Information Encryption Security Enhancement Based on OFDM-FSO Probabilistic Shaping,,,,,BER,,
+089,Erdogan2022,2.0,The Secrecy Comparison of RF and FSO Eavesdropping Attacks in Mixed RF-FSO Relay Networks,exp-weibull,,,RF-link Eve,SOP;secrecy rate/capacity,simulation;analytical,
+090,Vu2022,7.0,Toward Practical Entanglement-Based Satellite FSO/QKD Systems Using Dual-Threshold/Direct Detection,,,,,,,complexity
+091,Odeyemi2019,2.0,Security outage performance of partial relay selection in AF mixed RF/FSO system with outdated channel state information,gamma-gamma;double GG/other,yes,imperfect/outdated,,,simulation;analytical,
+093,AlMohammed2024,1.0,Using Quantum Key Distribution With Free Space Optics to Secure Communications in High-Speed Trains,,,,,,experimental;simulation,
+095,Zhang2021,2.0,Secrecy performance for underlay cognitive multi-relaying MISO-RF/SIMO-FSO networks with outdated CSI,gamma-gamma,,imperfect/outdated,,SOP,simulation;analytical,
+097,Liu2024,10.0,Secrecy outage analysis for RIS-assisted hybrid FSO-RF systems with NOMA,gamma-gamma,,,FSO-link Eve,SOP,simulation;analytical,
+098,Endo2018,1.0,Free space optical secret key agreement,,,,,SKR,,
+101,Huang2018,0.0,Secure free-space optical communication system based on data fragmentation multipath transmission technology,,,,,,experimental,
+104,Pattanayak2020a,3.0,On the physical layer security of hybrid RF-FSO system in presence of multiple eavesdroppers and receiver diversity,malaga,yes,,,SOP;EST,analytical,
+106,Eghbal2014,0.0,Security Enhancement in Free-Space Optics Using Acousto-Optic Deflectors,,,,,,simulation,
+107,AbdElMottaleb2023,0.0,Enhancing security and capacity in FSO transmission for next-generation networks using OFDM/OCDMA-based ICSM codes,,,,,BER,experimental,
+109,Wang2023,10.0,Secrecy Performance Analysis of Mixed RF/FSO Systems Based on RIS Reflection Interference Eavesdropper,malaga,,,RF-link Eve,SOP;ASC;secrecy rate/capacity,simulation;analytical,
+116,Zhao2019,7.0,Performance analysis of the satellite-to-ground continuous-variable quantum key distribution with orthogonal frequency division multiplexed modulation,,,,,SKR,simulation,
+117,Mahmud2021,5.0,Combining quantum key distribution with chaotic systems for free-space optical communications,,,,,,,
+122,Guo2024,5.0,Security Analysis of Differential Chaotic Keying in Optical Communication,gamma-gamma,,,,BER,simulation,
+123,Sasaki2017,0.0,Quantum photonic network and physical layer security,,,,,secrecy rate/capacity,experimental;simulation,
+125,Wang2014,0.0,Enhancing the Security of Free-Space Optical Communications With Secret Sharing and Key Agreement,,,,,SKR,,
+129,ElMalek2016,9.0,Security-Reliability Trade-Off Analysis for Multiuser SIMO Mixed RF/FSO Relay Networks With Opportunistic User Scheduling,gamma-gamma;double GG/other,yes,,,intercept prob.,simulation;analytical,
+136,Shakir2021,9.0,On Secrecy Performance of Multiuser FSO Networks with Opportunistic User Scheduling,malaga,yes,,,intercept prob.,simulation;analytical,
+137,Porambage2021,12.0,The Roadmap to 6G Security and Privacy,,,,,,,
+138,Gracia2022,12.0,6G Security Challenges and Opportunities,,,,,,,
+139,Muheidat2022,12.0,Security Concerns for 5G/6G Mobile Network Technology and Quantum Communication,,,,,,simulation,
+140,Wang2022,12.0,Quantum-Enabled 6G Wireless Networks: Opportunities and Challenges,,,,,,,
+142,Vu2023,7.0,Design of Satellite-Based FSO/QKD Systems Using GEO/LEOs for Multiple Wireless Users,,,,,,simulation,
+146,Shaw2018,5.0,Securing and auto-synchronizing communication over free-space optics using quantum key distribution and chaotic systems,,,,,BER,experimental;simulation,
+X-Investigation of Out,,,Investigation of Outage Performance in NOMA,gamma-gamma;malaga;double GG/other,yes,imperfect/outdated;perfect,,BER,simulation;analytical,energy/power
+X-OAM-Based Optical Wi,,,OAM-Based Optical Wireless Security- Leveraging Beam Misalignment and Crosstalk for Eavesdropping Resistanc,,yes,,RF-link Eve,BER,simulation;analytical,
+X-OAM-Based_Hybrid_Fre,,,OAM-Based_Hybrid_Free-Space_Optical-Terahertz_Multidimensional_Coded_Modulation_and_Physical-Layer_Security,,,,,secrecy rate/capacity;BER,simulation,complexity;hardware
+X-OAM-based Physical-L,,,OAM-based Physical-Layer Security Enabled,gamma-gamma,,,,secrecy rate/capacity;SKR,simulation,complexity;hardware
+X-OFDM with Index Modu,,,OFDM with Index Modulation in Orbital Angular,,yes,,,BER,experimental;simulation;analytical,complexity;hardware
+X-On the performance o,,,On the performance of a UAV-based Malaga-distributed,gamma-gamma;malaga;exp-weibull;double GG/other,yes,imperfect/outdated;perfect,,BER,simulation;analytical,complexity;hardware
+X-Performance analysis,,,Performance analysis of dual-hop mixed RFFSO systems combined with NOMA,gamma-gamma;malaga;exp-weibull;double GG/other,,imperfect/outdated;perfect,,BER,simulation,energy/power

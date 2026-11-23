@@ -1,0 +1,8 @@
+Topics with >=1 direct question: 10/15 -> [0, 1, 2, 3, 4, 5, 7, 9, 10, 12]
+Topics with only partial questions: [6, 8, 11, 13, 14]
+Topics with no question: []
+Questions anchored (>=1 direct topic): 18/42
+Questions with no direct topic: ['ST1-Q04', 'ST1-Q05', 'ST1-Q07', 'ST1-Q11', 'ST1-Q12', 'ST1-Q13', 'ST1-Q14', 'ST1-Q15', 'ST1-Q17', 'ST1-Q19', 'ST2-Q03', 'ST2-Q04', 'ST2-Q05', 'ST2-Q06', 'ST2-Q07', 'ST3-Q02', 'ST3-Q04', 'ST4-Q02', 'ST4-Q03', 'ST4-Q04', 'ST4-Q07', 'ST4-Q08', 'ST4-Q09', 'ST5-Q01']
+Cited share, topics with direct question: 55/109
+Cited share, topics without direct question: 4/27
+Non-zero cells: 80 (score 2: 18, score 1: 62)

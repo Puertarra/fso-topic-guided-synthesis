@@ -1,0 +1,87 @@
+file_id,Topic,title,code,note
+3.0,3.0,Analysis of selection combining hybrid FSO/RF systems considering physical layer security and interference,NOTUSED,Hybrid Q4-5 selection combining
+4.0,4.0,Secure and covert communication strategy of UAV based on hybrid RF/FSO system,GAP,covert communication
+6.0,-1.0,On mitigating reactive jamming with dynamic resource allocation in optical IRS and UAV-assisted FSO-based networks,GAP,jamming attacks
+7.0,6.0,On the secrecy capacity of hybrid FSO-mmWave links with correlated wiretap channels,GAP,hybrid FSO-mmWave
+9.0,0.0,Channel prediction for intelligent FSO transmission system,OOS,"channel prediction, no security"
+11.0,6.0,Physical layer security in MIMO hybrid FSO-mmWave systems: A learning-based link selection approach,GAP,hybrid FSO-mmWave
+12.0,3.0,A PHY Layer Security Analysis of a Hybrid High Throughput Satellite With an Optical Feeder Link,GAP,satellite with optical feeder link
+14.0,7.0,Advanced Control Architectures for Quantum Satellite Temporal-Networking,OOS,quantum satellite network control
+15.0,1.0,AirQKD: The Role of Free-Space Optics Quantum Key Distribution Enabling Pragmatic Secure and Scalable Communications,NOTUSED,QKD Q1 practical FSO-QKD
+18.0,13.0,Comprehensive Physical Layer Security Analysis of FSO Communications Over Málaga Channels,NOTUSED,PLS ST1 Q1 Malaga channels
+24.0,-1.0,Enhancing Secrecy Capacity in FSO Links via MISO Systems Through Turbulence-Induced Fading Channels With Misalignment Errors,NOTUSED,PLS ST1 Q16-17 spatial diversity
+25.0,-1.0,Hybrid Optical Wireless Network for Future SAGO-Integrated Communication Based on FSO/VLC Heterogeneous Interconnection,OOS,"network architecture, no PLS analysis"
+26.0,6.0,Performance analysis of FSO/CDMA system based on binary symmetric wiretap channel,GAP,CDMA wiretap
+27.0,7.0,Performance evaluation and security analysis of ground-to-satellite FSO system with CV-QKD protocol,NOTUSED,QKD Q2 ground-to-satellite CV-QKD
+29.0,6.0,Investigation and demonstration of all-optical hybrid fiber-FSO-fiber CDMA communication system,GAP,CDMA hybrid fiber-FSO
+30.0,1.0,Analysis of outage performance in a 6G‐V2X communications system utilising free‐space optical quantum key distribution,NOTUSED,QKD / 6G Q2 FSO-QKD in V2X
+33.0,8.0,Impact of Correlation and Pointing Error on Secure Outage Performance Over Arbitrary Correlated Nakagami-m and M-Turbulent Fading Mixed RF-FSO Channel,GAP,channel correlation and pointing error
+34.0,0.0,Information Security Risks Outside the Laser Beam in Terrestrial Free-Space Optical Communication,NOTUSED,PLS ST1 Q1 eavesdropper outside beam
+35.0,-1.0,Physical layer security for dual-hop FSO/RF system using generalized ΓΓ∕𝜂 −𝜇 fading channels,NOTUSED,PLS ST1 Q18 dual-hop RF-FSO
+36.0,1.0,Secret key rates of free-space optical continuous-variable quantum key distribution,NOTUSED,QKD Q2 CV-QKD key rates
+37.0,0.0,Jamming Threats in Free-Space Optics,SURVEY,jamming review (cited in Introduction)
+38.0,4.0,Joint Trajectory and Beamforming Optimization for Federated DRL-Aided Space-Aerial-Terrestrial Relay Networks With RIS and RSMA,NOTUSED,6G Q1 learning-based beamforming
+40.0,1.0,QCL-Based Cryogen-Free THz Optical Wireless Communication Link,OOS,"THz QCL link, no security"
+42.0,3.0,On Effective Secrecy Throughput of Underlay Spectrum Sharing α−μ/ Málaga Hybrid Model Under Interference-and-Transmit Power Constraints,GAP,spectrum sharing / cognitive
+43.0,8.0,On Secrecy Performance of Millimeter-Wave RF-Assisted FSO Communication Systems,GAP,mmWave RF-assisted FSO
+44.0,8.0,On Secrecy Performance of Mixed Generalized Gamma and Málaga RF-FSO Variable Gain Relaying Channel,NOTUSED,PLS ST1 Q8 variable-gain relaying
+45.0,8.0,On Secrecy Performance of Mixed RF-FSO Systems,GAP,detection techniques
+46.0,-1.0,On Secrecy Performance of Mixed RF-FSO Systems With a Wireless-Powered Friendly Jammer,NOTUSED,Hybrid Q2 friendly jammer
+47.0,13.0,On Secure Free-Space Optical Communications Over Málaga Turbulence Channels,NOTUSED,PLS ST1 Q1 Malaga channels
+48.0,11.0,On Secure Mixed RF-FSO Decode-and-Forward Relaying Systems With Energy Harvesting,GAP,energy harvesting
+50.0,11.0,On the Performance of Mixed FSO/RF SWIPT Systems With Secrecy Analysis,GAP,SWIPT
+51.0,11.0,On the Physical Layer Security of Mixed FSO-RF SWIPT System With Non-Ideal Power Amplifier,GAP,SWIPT
+52.0,-1.0,On the Physical Layer Security of a Decode and Forward Based Mixed FSO/RF Co-Operative System,NOTUSED,PLS ST1 Q8-9 relaying
+53.0,6.0,On the Secrecy Capacity of Hybrid FSO-mmWave Wiretap Channels,GAP,hybrid FSO-mmWave
+54.0,4.0,On the Secrecy Enhancement of an Integrated Ground–Aerial Network With a Hybrid FSO/THz Feeder Link,GAP,HAP / SAGIN with FSO-THz
+56.0,0.0,Optical Wireless Communications: Research Challenges for MAC Layer,OOS,MAC layer challenges
+57.0,6.0,Performance Analysis and Experimental Investigation of Physical-Layer Security in OCDMA-Based Hybrid FSO/Fiber Wiretap Channel,GAP,OCDMA hybrid FSO-fiber
+58.0,0.0,Performance Enhancement of FSO Communication System Under Rainy Weather Environment Using a Novel Encryption Technique,GAP,encryption-based security
+60.0,5.0,Performance Evaluation of Dual Hop Mixed FSO RF System Using Differential Chaos Shift Keying With Secrecy Analysis,NOTUSED,AdvMod Q1 chaos shift keying
+63.0,0.0,Physical-Layer Security in Free-Space Optical Communications,NOTUSED,PLS ST1 Q1 secure transmission probability
+66.0,3.0,Physical Layer Security Performance Analysis of Hybrid FSO/RF Communication System,NOTUSED,Hybrid Q4-5 eavesdropping modes
+67.0,6.0,Physical Layer Security of Dual-Hop Hybrid FSO-mmWave Systems,GAP,hybrid FSO-mmWave
+68.0,4.0,Physical Layer Security of HAPS-Based Space–Air–Ground-Integrated Network With Hybrid FSO/RF Communication,GAP,HAP / SAGIN hybrid FSO-RF
+70.0,1.0,Reliability and Security Analysis of an Entanglement-Based QKD Protocol in a Dynamic Ground-to-UAV FSO Communications System,NOTUSED,QKD Q1 entanglement QKD UAV
+73.0,11.0,Secrecy Outage Analysis of Mixed RF-FSO Downlink SWIPT Systems,GAP,SWIPT
+75.0,2.0,Secrecy Performance Analysis of Mixedα−µand Exponentiated Weibull RF-FSO Cooperative Relaying System,NOTUSED,PLS ST1 Q8-9 cooperative relaying
+76.0,8.0,Secrecy Performance of FSO Using HD and IM/DD Detection Technique Over F-Distribution Turbulence Channel With Pointing Error,GAP,detection techniques
+78.0,6.0,Secure Index-Modulation Based Hybrid Free Space Optical and Millimeter Wave Links,GAP,hybrid FSO-mmWave with index modulation
+80.0,13.0,Secure Outage Analysis of FSO Communications Over Arbitrarily Correlated Málaga Turbulence Channels,NOTUSED,PLS ST1 Q1 correlated Malaga
+81.0,14.0,Secure Transmission for Energy Efficient Parallel Mixed FSO/RF System in Presence of Independent Eavesdroppers,NOTUSED,PLS ST1 Q18 diversity combining
+82.0,3.0,Secured End-to-End FSO-VLC-Based IoT Network With Randomly Positioned VLC: Known and Unknown CSI,GAP,FSO-VLC hybrid
+84.0,9.0,Security-Reliability Tradeoff Analysis for Multiuser FSO Communications Over a Generalized Channel,NOTUSED,PLS ST1 Q16 multiuser trade-off
+87.0,4.0,Security Analysis of Integrated HAP-Based FSO and UAV-Enabled RF Downlink Communications,GAP,HAP / SAGIN FSO-RF downlink
+92.0,4.0,Uplink Secrecy Performance of RIS-Based RF/FSO Three-Dimension Heterogeneous Networks,NOTUSED,Hybrid Q1 RIS RF-FSO
+94.0,0.0,Orbital angular momentum of light for communications,SURVEY,OAM communications review
+96.0,10.0,Secrecy Performance of a Non-Orthogonal Multiple Access-Based Space–Air–Ground Integrated Network System with Stochastic Geometry Distribution of Terrestrial Terminals and Fog Absorption in Optical Link,GAP,NOMA in SAGIN
+99.0,0.0,Free-space optical channel estimation for physical layer security,NOTUSED,PLS ST1 Q6 channel estimation / CSI
+100.0,0.0,Utilizing polarization-multiplexing for free space optical communication transmission with security operation,GAP,polarization multiplexing
+102.0,3.0,Physical layer security of a two way relay based mixed FSO/RF network in the presence of multiple eavesdroppers,NOTUSED,PLS ST1 Q8-9 two-way relaying
+103.0,0.0,"A contemporary survey on free space optical communication: Potentials, technical challenges, recent advances and research direction",SURVEY,general FSO survey (comparator in Table 1)
+105.0,0.0,Secure communication for FSO links in the presence of eavesdropper with generic location and orientation,NOTUSED,PLS ST1 Q4/Q6 eavesdropper geometry
+108.0,0.0,Securing Non-Terrestrial FSO Link with Public Key Encryption against Flying Object Attacks,GAP,public-key encryption
+110.0,3.0,Secrecy Performance Analysis of Hybrid RF/FSO System under Different Eavesdropping Strategies,NOTUSED,Hybrid Q4-5 eavesdropping strategies
+111.0,0.0,"A survey of optical wireless technologies: practical considerations, impairments, security issues and future research directions",SURVEY,OWC survey
+112.0,-1.0,Performance analysis of multi‑hop FSO convergent with UWOC system for security and tracking in navy applications,OOS,"FSO-UWOC tracking, no PLS analysis"
+113.0,8.0,On secrecy performance of mixed α − η − μ and Málaga RF‑FSO variable gain relaying channel,NOTUSED,PLS ST1 Q8 variable-gain relaying
+114.0,0.0,Performance analysis of physical-layer security in mid-infrared FSO communication system,NOTUSED,PLS ST1 Q1 MIR vs NIR
+115.0,0.0,A survey of jamming vulnerabilities in free space optical communication systems and mitigation techniques,SURVEY,jamming survey
+118.0,1.0,FSO-QKD protocols under free-space losses and device imperfections: a comparative study,NOTUSED,QKD Q1 protocol comparison
+119.0,1.0,Quantum key distribution over FSO channel using error reconciliation protocol,NOTUSED,QKD Q1 error reconciliation
+120.0,0.0,Physical layer security of FSO communication system based on G-G correlation channel,NOTUSED,PLS ST1 Q1 channel correlation
+121.0,3.0,Secrecy capacity of hybrid FSO‑RF communication links,NOTUSED,Hybrid Q4-5 secrecy capacity
+124.0,14.0,Physical Layer Security Performance of Multi-User Mixed Radio-Frequency/Free-Space-Optics System Based on Optimal User Interference,NOTUSED,Hybrid Q4 multi-user mixed RF-FSO
+126.0,9.0,Free Space Optical Communications Security and Reliability Trade-off: A Survey,SURVEY,security-reliability survey
+127.0,0.0,Possibility of compromising the security of free space optics communications caused by scattering on fog particles,GAP,experimental interception attack (fog scattering)
+128.0,0.0,Physical-Layer Security in Free-Space Optical Communications,DUP,duplicate of 063
+130.0,0.0,Secure free-space optical communication system based on data fragmentation multipath transmission technology,DUP,duplicate of 101
+131.0,0.0,Survey on Physical Layer Security in Optical Wireless Communication Systems,SURVEY,PLS in OWC survey (comparator in Table 1)
+132.0,2.0,Effective secrecy throughput analysis of relay-assisted free-space optical communications,NOTUSED,PLS ST1 Q8-9 relay-assisted FSO
+133.0,0.0,Utilizing polarization-multiplexing for free space optical communication transmission with security operation,DUP,duplicate of 100
+134.0,-1.0,Enhancing Secrecy Capacity in FSO Links via MISO Systems Through Turbulence-Induced Fading Channels With Misalignment Errors,DUP,duplicate of 024
+135.0,12.0,On Post Quantum Wireless Communication Security,GAP,post-quantum cryptography
+141.0,0.0,A Survey on Physical Layer Security for FSO Communication Systems,SURVEY,FSO PLS survey (comparator in Table 1)
+143.0,7.0,Enhancing Design and Performance Analysis of Satellite Entanglement-Based CV-QKD/FSO Systems,NOTUSED,QKD Q2 satellite CV-QKD
+144.0,-1.0,Enhancing Physical Layer Security of Multiuser SIMO Mixed RF/FSO Relay Networks with Multi-Eavesdroppers,NOTUSED,PLS ST1 Q10 relay networks
+145.0,0.0,Information Security Risks Outside the Laser Beam in Terrestrial Free-Space Optical Communication,DUP,duplicate of 034

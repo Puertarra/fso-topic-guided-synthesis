@@ -1,0 +1,7 @@
+*.pdf
+data2/
+data_extra/
+*.pkl
+.DS_Store
+__pycache__/
+.ipynb_checkpoints/

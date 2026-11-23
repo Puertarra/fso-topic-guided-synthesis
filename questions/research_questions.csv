@@ -1,0 +1,43 @@
+question_id,question,supertopic
+ST1-Q01,"Which optical modulation schemes (e.g., differential phase shift keying (DPSK), pulse position modulation (PPM), orbital angular momentum (OAM)) provide the highest secrecy capacity against eavesdropping under weak and strong atmospheric turbulence?",1
+ST1-Q02,"Provide comparative performance metrics (BER, secrecy capacity, symbol error rate, SNR thresholds) for DPSK, PPM, and OAM modulation schemes under different turbulence regimes.",1
+ST1-Q03,"How do reconfigurable intelligent surface (RIS)-assisted FSO systems improve secrecy capacity compared with conventional reflectors, and what phase-shift optimization methods are most effective?",1
+ST1-Q04,What adaptive beamforming algorithms are currently used to steer FSO beams securely toward legitimate receivers in turbulent channels?,1
+ST1-Q05,"In hybrid RF--FSO systems, how does adaptive beamforming reduce interception risk and improve secrecy capacity under eavesdropping attacks?",1
+ST1-Q06,What is the role of accurate channel state information (CSI) in implementing secure beamforming for FSO links under turbulence-induced fading?,1
+ST1-Q07,Which simulation studies demonstrate secrecy-rate improvements achieved through beam steering under weak and strong turbulence conditions?,1
+ST1-Q08,What types of relays (amplify-and-forward (AF) or decode-and-forward (DF)) are most effective for enhancing secrecy in FSO communication systems under interception threats?,1
+ST1-Q09,How does cooperative relaying (AF versus DF) improve physical-layer security in FSO links subject to eavesdropping?,1
+ST1-Q10,"What relay-selection algorithms maximize secrecy capacity in mixed RF--FSO networks, and how do they perform under mobility scenarios?",1
+ST1-Q11,"Which channel-coding techniques (e.g., low-density parity-check (LDPC) codes and polar codes) are most suitable for achieving physical-layer secrecy in turbulent FSO channels?",1
+ST1-Q12,How do LDPC-based secrecy codes perform in terms of BER and secrecy throughput under strong turbulence-induced fading?,1
+ST1-Q13,"What design parameters define secrecy-capacity-achieving codes in fading optical channels, and how can they be optimized?",1
+ST1-Q14,Can multilevel coding architectures separate confidential and non-confidential data streams in secure FSO transmitters?,1
+ST1-Q15,Which practical coding schemes provide an effective trade-off between maximizing secrecy throughput and minimizing BER in turbulent FSO environments?,1
+ST1-Q16,"How is spatial diversity implemented in secure FSO systems using MISO/MIMO configurations, and how does it contribute to physical-layer security?",1
+ST1-Q17,"Among selection combining, maximal-ratio combining, and equal-gain combining, which method is most effective for enhancing physical-layer security in FSO systems?",1
+ST1-Q18,How does spatial diversity mitigate fading and improve secrecy rates in dual-hop RF--FSO communication networks?,1
+ST1-Q19,Can spatial-diversity techniques be combined with artificial-noise generation to confuse eavesdroppers while preserving secrecy in FSO links?,1
+ST2-Q01,"Which quantum modulation protocols (BB84, differential phase-shift QKD (DPS-QKD), and continuous-variable quantum key distribution (CVQKD)) are most effective for secure key exchange over free-space optical links?",2
+ST2-Q02,How does CVQKD enhance secrecy performance in satellite-based FSO quantum communication networks?,2
+ST2-Q03,"What methods enable the integration of quantum key distribution with orbital angular momentum (OAM) modes in FSO links, and what benefits do they provide?",2
+ST2-Q04,What advantages does OAM encoding provide for implementing high-dimensional quantum states in QKD protocols over FSO channels?,2
+ST2-Q05,What experimental demonstrations exist for OAM-based quantum communication over satellite or long-range free-space optical links?,2
+ST2-Q06,How does mode-fidelity degradation in OAM channels affect the security and key-generation rate of OAM-QKD systems?,2
+ST2-Q07,What are the principal technical limitations of combining CVQKD with OAM in practical FSO deployments?,2
+ST3-Q01,"What performance metrics (BER, secrecy rate, and outage probability) characterize RIS-assisted dual-hop RF--FSO networks under eavesdropping scenarios?",3
+ST3-Q02,"Can intermediate relays in RF--FSO dual-hop systems act as friendly jammers, and how does this strategy improve secrecy capacity?",3
+ST3-Q03,How do relay placement and UAV-based relay mobility affect secrecy performance in hybrid RF--FSO secure networks?,3
+ST3-Q04,How does spatial diversity improve the secrecy rate and mitigate fading in dual-hop RF--FSO systems compared with single-hop FSO systems?,3
+ST3-Q05,What comparative analyses exist between spatial-diversity schemes in secure pure-FSO links and hybrid RF--FSO configurations?,3
+ST4-Q01,How does chaotic modulation enhance physical-layer security in FSO channels affected by atmospheric turbulence?,4
+ST4-Q02,"What is orbital angular momentum (OAM), how is it generated in FSO transmitters, and how can it be exploited for secure communication?",4
+ST4-Q03,What are the principal technical challenges associated with implementing OAM-based secure FSO links under moderate and strong turbulence conditions?,4
+ST4-Q04,"Which optical devices (e.g., spatial light modulators, q-plates, and metasurfaces) are used to encode and decode OAM modes in secure FSO communication?",4
+ST4-Q05,What is the operating principle of reconfigurable intelligent surfaces (RIS) in optical and hybrid RF--FSO secure communication systems?,4
+ST4-Q06,How can RIS-based designs enhance secrecy capacity by dynamically reflecting FSO beams toward legitimate users while suppressing signal leakage?,4
+ST4-Q07,Which RIS phase-shift design algorithms maximize secrecy rate and minimize signal leakage to eavesdroppers in FSO links?,4
+ST4-Q08,Can RIS architectures dynamically control secure transmission paths in ground-to-satellite FSO communication scenarios?,4
+ST4-Q09,What experimental RIS prototypes or testbeds have been developed to validate secure optical wireless communication?,4
+ST5-Q01,How can machine-learning models such as LSTM or transformer-based architectures improve adaptive beamforming in dynamic FSO environments to enhance security?,5
+ST5-Q02,What are the prospects and challenges associated with integrating quantum communication protocols with orbital angular momentum (OAM) modes in secure 6G FSO networks?,5

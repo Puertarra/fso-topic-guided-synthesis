@@ -1,0 +1,9 @@
+family,studies,experimental,analytical+numerical,numerical only,pointing error %,imperfect CSI %,Malaga %,Gamma-Gamma %,SOP %,SKR/QBER %,complexity %,energy %
+Beam control and RIS,6,0,3,3,83.0,33.0,67.0,33.0,67.0,0.0,0.0,50.0
+Classical key agreement,3,2,1,0,33.0,0.0,0.0,0.0,33.0,67.0,0.0,33.0
+"Diversity, scheduling and artificial noise",4,0,3,1,100.0,0.0,75.0,50.0,50.0,0.0,25.0,25.0
+OAM / spatial modes,5,0,2,3,60.0,0.0,0.0,60.0,0.0,40.0,0.0,0.0
+Quantum key distribution,13,1,3,9,54.0,0.0,0.0,23.0,0.0,54.0,23.0,15.0
+"Relaying, jamming and hybrid RF-FSO",22,0,19,3,86.0,55.0,68.0,77.0,73.0,0.0,14.0,27.0
+"Waveform, coding and chaos",8,2,2,4,12.0,12.0,12.0,38.0,0.0,0.0,25.0,38.0
+All primary studies,61,5,33,23,66.0,25.0,38.0,49.0,38.0,18.0,15.0,26.0

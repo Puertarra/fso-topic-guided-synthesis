@@ -1,0 +1,12 @@
+{
+  "title": "Topic-guided expert questions for a traceable literature synthesis: physical-layer security in FSO systems (data and code)",
+  "upload_type": "dataset",
+  "description": "Data, prompts, notebooks and validation scripts for the article 'Topic modelling guides expert research questions in a traceable synthesis of physical-layer security for free-space optical systems'. Full texts and Web of Science abstracts are not redistributed.",
+  "creators": [
+    {"name": "Leiva-Araos, Andrés", "orcid": "0000-0002-2480-3022", "affiliation": "Universidad del Desarrollo"},
+    {"name": "Kaushal, Hemani", "orcid": "0000-0002-1969-4212", "affiliation": "University of North Florida"},
+    {"name": "Gana, Bady", "orcid": "0009-0004-9840-0586", "affiliation": "Pontificia Universidad Católica de Valparaíso"}
+  ],
+  "license": "cc-by-4.0",
+  "keywords": ["free-space optics", "physical-layer security", "BERTopic", "literature synthesis", "human-in-the-loop"]
+}

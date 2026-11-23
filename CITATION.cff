@@ -1,0 +1,19 @@
+cff-version: 1.2.0
+message: "If you use these materials, please cite the article and the archived dataset."
+title: "Topic-guided expert questions for a traceable literature synthesis: data and code"
+type: dataset
+authors:
+  - family-names: Leiva-Araos
+    given-names: Andrés
+    orcid: "https://orcid.org/0000-0002-2480-3022"
+    affiliation: "Universidad del Desarrollo"
+  - family-names: Kaushal
+    given-names: Hemani
+    orcid: "https://orcid.org/0000-0002-1969-4212"
+    affiliation: "University of North Florida"
+  - family-names: Gana
+    given-names: Bady
+    orcid: "https://orcid.org/0009-0004-9840-0586"
+    affiliation: "Pontificia Universidad Católica de Valparaíso"
+license: [MIT, CC-BY-4.0]
+keywords: [free-space optics, physical-layer security, BERTopic, literature synthesis, human-in-the-loop]

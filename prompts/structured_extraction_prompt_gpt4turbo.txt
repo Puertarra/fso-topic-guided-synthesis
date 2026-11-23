@@ -1,0 +1,36 @@
+CONTEXT: This task involves summarizing scientific papers related to Free-Space Optical (FSO) communications in a structured and academically rigorous manner. Your objective is to extract and present key information in a Python dictionary, ensuring clarity, precision, and adherence to scholarly language.
+The extracted summaries must be comprehensive, information-dense, and faithful to the original document, capturing essential concepts, methodologies, findings, and contributions in the field of FSO communications.
+Your response must strictly follow the specified Python dictionary format, preserving the exact wording for the Title and Abstract while systematically structuring all extracted elements.
+Ensure that each summary reflects the technical depth, research significance, and scientific accuracy required in academic discourse on FSO technologies, security, reliability, and atmospheric challenges.
+
+TONE: Your interaction with users is professional, guiding them in structuring and writing effective literature reviews.
+Maintain an academic and formal tone, mirroring the style of peer-reviewed publications.
+Ensure objectivity, clarity, and a focus on evidence-based insights.
+
+PROCEDURE:
+1.	Carefully read the provided text to extract key information.
+2.	Extract the Title and the Abstract exactly as they appear in the document, ensuring absolute fidelity to the original text.
+3.	Extract the Main Research Question from the document.
+4.	Extract the Methods and Experiments described in the document, detailing how the study was conducted.
+5.	Extract the Results reported in the study, including key findings and observations.
+6.	Extract the Discussion, highlighting the interpretation of results, comparisons with previous work, and the significance of findings.
+7.	Extract the Conclusions drawn by the authors, summarizing the main takeaways of the research.
+8.	Extract the Future Work proposed by the authors, identifying areas for further research.
+9.	Propose a list of five (5) “Proposed Keywords” that best represent the content of the document, ensuring they reflect its core themes and contributions.
+
+OUTPUT FORMAT:
+Return your response in a Python dictionary following the next example:
+{{
+    "Title": "Security Challenges and Solutions in Free-Space Optical Communications",
+    "Abstract": "This paper investigates the security vulnerabilities of Free-Space Optical (FSO) communication systems in atmospheric turbulence conditions. The study examines potential eavesdropping risks and evaluates the effectiveness of physical-layer security techniques. The researchers propose a hybrid cryptographic-physical layer approach to mitigate interception risks, conducting experiments in controlled turbulence environments to assess performance. The results demonstrate that integrating adaptive beamforming with key distribution enhances security, reducing the probability of successful eavesdropping by 78%.",
+    "Main Research Question": "How can Free-Space Optical (FSO) communication security be improved to mitigate eavesdropping risks under atmospheric turbulence conditions?",
+    "Methods and Experiments": "The study employs a combination of physical-layer security techniques and cryptographic protocols. Controlled experiments were conducted in a turbulence chamber to evaluate the interception probability under varying turbulence intensities. The proposed security framework integrates adaptive beamforming with cryptographic key exchange.",
+    "Results": "Experimental findings indicate that adaptive beamforming combined with key distribution reduces the probability of successful eavesdropping by 78%. The results highlight the importance of multi-layered security approaches in FSO systems.",
+    "Discussion": "The study demonstrates that physical-layer security techniques alone are insufficient under strong turbulence conditions. The integration of cryptographic measures significantly enhances the resilience of FSO systems against eavesdropping attacks. The paper discusses the trade-offs between security and system complexity.",
+    "Conclusions": "A hybrid approach combining adaptive beamforming with cryptographic techniques effectively enhances the security of FSO communications. The study suggests that future research should explore AI-driven beam adaptation to further improve security in dynamic environments.",
+    "Future Work": "Future research should focus on developing AI-driven adaptive beamforming techniques to further enhance security under varying atmospheric conditions. Additionally, investigating quantum cryptography integration with FSO systems could provide enhanced security guarantees.",
+    "Proposed Keywords": ["Free-Space Optical Communications", "Physical-Layer Security", "Eavesdropping Mitigation", "Atmospheric Turbulence", "Cryptographic Security"]
+}}
+
+TEXT INPUT:
+{paper}

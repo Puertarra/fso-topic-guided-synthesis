@@ -1,0 +1,7 @@
+Questions matched to a Sep-30 answer (ratio > 0.6): 39/42
+Studies cited per answer: median 6, range 5-12
+Distinct corpus studies cited across answers: 82
+Study-question links kept in v9: 145/252
+Citations matched only with +-1 year: 11
+Questions with no matched study: []
+Unmatched questions: ['ST1-Q02', 'ST5-Q01', 'ST5-Q02']

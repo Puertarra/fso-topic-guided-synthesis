@@ -1,0 +1,21 @@
+file_id,code,note
+82.0,GAP,FSO-VLC hybrid
+102.0,NOTUSED,PLS ST1 Q8-9 two-way relaying
+43.0,GAP,mmWave RF-assisted FSO
+27.0,NOTUSED,QKD Q2 ground-to-satellite CV-QKD
+54.0,GAP,HAP / SAGIN with FSO-THz
+34.0,NOTUSED,PLS ST1 Q1 eavesdropper outside beam
+58.0,GAP,encryption-based security
+9.0,OOS,"channel prediction, no security"
+127.0,GAP,experimental interception attack (fog scattering)
+108.0,GAP,public-key encryption
+105.0,NOTUSED,PLS ST1 Q4/Q6 eavesdropper geometry
+130.0,DUP,duplicate of 101
+126.0,SURVEY,security-reliability survey
+94.0,SURVEY,OAM communications review
+52.0,NOTUSED,PLS ST1 Q8-9 relaying
+110.0,NOTUSED,Hybrid Q4-5 eavesdropping strategies
+70.0,NOTUSED,QKD Q1 entanglement QKD UAV
+143.0,NOTUSED,QKD Q2 satellite CV-QKD
+118.0,NOTUSED,QKD Q1 protocol comparison
+42.0,GAP,spectrum sharing / cognitive
