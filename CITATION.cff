@@ -2,6 +2,9 @@ cff-version: 1.2.0
 message: "If you use these materials, please cite the article and the archived dataset."
 title: "Topic-guided expert questions for a traceable literature synthesis: data and code"
 type: dataset
+doi: "10.5281/zenodo.24476302"
+version: "1.0.0"
+repository-code: "https://github.com/Puertarra/fso-topic-guided-synthesis"
 authors:
   - family-names: Leiva-Araos
     given-names: Andrés

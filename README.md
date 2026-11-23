@@ -4,7 +4,9 @@ Data, prompts, notebooks and validation scripts for the article:
 
 > Leiva-Araos, A., Kaushal, H., Gana, B. *Topic modelling guides expert research questions in a traceable synthesis of physical-layer security for free-space optical systems.* (submitted).
 
-Archived version: Zenodo, DOI: `10.5281/zenodo.XXXXXXX` (to be updated after the first release).
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.24476302.svg)](https://doi.org/10.5281/zenodo.24476302)
+
+Archived version: Zenodo, DOI [10.5281/zenodo.24476302](https://doi.org/10.5281/zenodo.24476302).
 
 ## What the workflow does
 
